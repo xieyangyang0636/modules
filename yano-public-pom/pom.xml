@@ -19,7 +19,7 @@
         <httpcore.version>4.4.10</httpcore.version>
         <httpclient.version>4.5.3</httpclient.version>
         <jasypt.version>1.9.2</jasypt.version>
-        <netty.version>4.1.6.Final</netty.version>
+        <netty.version>4.1.42.Final</netty.version>
         <jboss.version>1.4.10.Final</jboss.version>
         <avro.version>1.8.1</avro.version>
         <apache.commons.version>3.4</apache.commons.version>
