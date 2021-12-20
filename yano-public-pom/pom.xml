@@ -23,7 +23,7 @@
         <jboss.version>1.4.10.Final</jboss.version>
         <avro.version>1.8.1</avro.version>
         <apache.commons.version>3.4</apache.commons.version>
-        <json.lib.version>2.2.3</json.lib.version>
+        <json.lib.version>2.4</json.lib.version>
         <jersey.version>1.19</jersey.version>
         <mongo.version>3.2.2</mongo.version>
         <jedis.version>2.9.0</jedis.version>
@@ -85,7 +85,7 @@
             <dependency>
                 <groupId>com.sun.jersey</groupId>
                 <artifactId>jersey-client</artifactId>
-                <version>${jersey-client}</version>
+                <version>${jersey.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.mongodb</groupId>
