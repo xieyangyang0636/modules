@@ -15,7 +15,7 @@
         <targetJavaVersion>1.8</targetJavaVersion>
         <slf4j.version>1.7.5</slf4j.version>
         <junit.version>4.11</junit.version>
-        <es.version>2.3.3</es.version>
+        <es.version>6.8.17</es.version>
         <httpcore.version>4.4.10</httpcore.version>
         <httpclient.version>4.5.3</httpclient.version>
         <jasypt.version>1.9.2</jasypt.version>
