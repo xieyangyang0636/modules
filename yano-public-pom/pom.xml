@@ -17,7 +17,7 @@
         <junit.version>4.11</junit.version>
         <es.version>2.3.3</es.version>
         <httpcore.version>4.4.10</httpcore.version>
-        <httpclient.version>4.5.3</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <jasypt.version>1.9.2</jasypt.version>
         <netty.version>4.1.6.Final</netty.version>
         <jboss.version>1.4.10.Final</jboss.version>
